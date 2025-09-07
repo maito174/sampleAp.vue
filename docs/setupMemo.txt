@@ -1,0 +1,15 @@
+https://tech-education-nav.com/contents/educational-materials/vue/typescript-vue-project-setup
+
+ cd .\cadg.vue
+
+npm create vue@latest
+npm install
+npm run format
+npm run build
+npm run dev
+
+npm install vue-router
+npm list vue-router
+
+Tailwind CSS と関連パッケージのインストール
+npm install -D tailwindcss postcss autoprefixer
