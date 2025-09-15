@@ -1,6 +1,6 @@
 https://tech-education-nav.com/contents/educational-materials/vue/typescript-vue-project-setup
 
- cd .\cadg.vue
+ cd .\sampleAp.vue
 
 npm create vue@latest
 npm install
